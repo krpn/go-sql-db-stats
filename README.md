@@ -9,7 +9,7 @@
 * Can collect metrics in Prometheus format
 * Can repeatedly pass [sql.DBStats](https://golang.org/pkg/database/sql/#DBStats) in your own Collector (see [docs](http://godoc.org/github.com/krpn/go-sql-db-stats))
 
-# Exposed Prometheus Metrics
+## Exposed Prometheus Metrics
 
 | Name           | Description                    | Labels             |
 |----------------|--------------------------------|--------------------|
