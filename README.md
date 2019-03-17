@@ -5,9 +5,9 @@
 [![Go Report](https://goreportcard.com/badge/github.com/krpn/go-sql-db-stats)](https://goreportcard.com/report/github.com/krpn/go-sql-db-stats)
 [![License](https://img.shields.io/github/license/krpn/go-sql-db-stats.svg)](https://github.com/krpn/go-sql-db-stats/blob/master/LICENSE)
 
-* A Go library for collecting *sql.DB stats
+* A Go library for collecting [sql.DBStats](https://golang.org/pkg/database/sql/#DBStats) taken from *sql.DB connection
 * Can collect metrics in Prometheus format
-* Can repeatedly pass sql.DBStats in your own Collector (see [docs](http://godoc.org/github.com/krpn/go-sql-db-stats))
+* Can repeatedly pass [sql.DBStats](https://golang.org/pkg/database/sql/#DBStats) in your own Collector (see [docs](http://godoc.org/github.com/krpn/go-sql-db-stats))
 
 # Exposed Prometheus Metrics
 
