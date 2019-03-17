@@ -1,6 +1,5 @@
 # go-sql-db-stats
 
-
 [![GoDoc](https://godoc.org/github.com/krpn/go-sql-db-stats?status.svg)](http://godoc.org/github.com/krpn/go-sql-db-stats)
 [![Go Report](https://goreportcard.com/badge/github.com/krpn/go-sql-db-stats)](https://goreportcard.com/report/github.com/krpn/go-sql-db-stats)
 [![License](https://img.shields.io/github/license/krpn/go-sql-db-stats.svg)](https://github.com/krpn/go-sql-db-stats/blob/master/LICENSE)
